@@ -1,5 +1,6 @@
 import java.util.Scanner;
 class Main {
+  //Fruit Stor revision
   public static void main(String[] args) {
     String desiredFruit = "";
     float desiredFruitWeight;
